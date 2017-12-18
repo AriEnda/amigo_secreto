@@ -12,6 +12,9 @@ File Encoding         : 65001
 
 Date: 2017-12-18 17:19:49
 */
+DROP DATABASE IF EXISTS `amigo_secreto`;
+CREATE DATABASE amigo_secreto;
+use amigo_secreto;
 
 SET FOREIGN_KEY_CHECKS=0;
 
